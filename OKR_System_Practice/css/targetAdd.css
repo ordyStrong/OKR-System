@@ -1,0 +1,10 @@
+.newTargetCon {
+     background-color: #fff;
+    padding-left:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:8px;
+}
+.conInner{
+    margin-bottom:10px;
+}

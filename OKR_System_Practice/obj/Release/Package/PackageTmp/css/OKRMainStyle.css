@@ -1,0 +1,96 @@
+
+	body {
+        font-family: Arial, sans-serif;	
+		
+		}
+
+	.master_header {
+		background-color: #008ACD;
+		color: #FFFFFF;
+		padding: 10px;
+	
+		/* position: relative; */
+	}
+	.master_header h3{		
+		width: 240px;
+		display: inline-block;
+		}
+		
+	.master_header .accountInfoLabel{
+		margin-top: 3px;
+	
+			  color: #fff;
+			  float: right;
+			  
+	}	
+      .master_nav {
+        position: absolute;
+        /* top: 20;
+        left: 0; */
+        height: 150%;
+        width: 150px;
+        background-color: #1D282F;
+        color: #fff;
+      }
+
+
+      .master_nav li {
+        padding: 10px;
+        border-bottom: 1px solid #555;
+      }
+
+      .master_nav a {
+        color: #fff;
+      }
+
+      .master_nav a:hover {
+        text-decoration: underline;
+      }
+
+      .master_main {
+        margin-left: 150px;
+        padding: 20px;
+		background-color: #E8EDF1;
+      }
+
+      .section {
+        margin-bottom: 30px;
+		background-color: #fff;
+      }
+
+      .section h2 {
+        margin-top: 0;
+      }
+
+      .section ul {
+        margin: 0;
+        padding: 0;
+      }
+
+      .section li {
+        padding: 10px;
+        border-bottom: 1px solid #ccc;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .badge {
+        color: #fff;
+        font-size: 14px;
+        font-weight: bold;
+        padding: 6px 10px;
+        border-radius: 20px;
+      }
+
+      .badge-danger {
+        background-color: #d9534f;
+      }
+
+      .badge-warning {
+        background-color: #f0ad4e;
+      }
+
+      .badge-success {
+        background-color: #5cb85c;
+      }

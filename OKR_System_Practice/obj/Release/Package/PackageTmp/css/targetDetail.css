@@ -1,0 +1,25 @@
+
+
+.commentArea,
+.groupGoal {
+     background-color: #fff;
+    padding-left:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:8px;
+   
+}
+
+.report {
+       background-color: #fff;
+    padding-left:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:8px;
+  
+}
+
+.report {
+          border-top:solid 1px #ccc;
+    
+}

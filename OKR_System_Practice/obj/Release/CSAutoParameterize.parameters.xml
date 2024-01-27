@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="OKRSystemDbConnectionString-Web.config Connection String" description="OKRSystemDbConnectionString 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="OKRSystemDbConnectionString2-Web.config Connection String" description="OKRSystemDbConnectionString2 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString2']/@connectionString" />
+  </parameter>
+  <parameter name="OKRSystemDbConnectionString3-Web.config Connection String" description="OKRSystemDbConnectionString3 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString3']/@connectionString" />
+  </parameter>
+  <parameter name="OKRSystemDbConnectionString4-Web.config Connection String" description="OKRSystemDbConnectionString4 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString4']/@connectionString" />
+  </parameter>
+  <parameter name="OKRSystemDbConnectionString5-Web.config Connection String" description="OKRSystemDbConnectionString5 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString5']/@connectionString" />
+  </parameter>
+  <parameter name="OKRSystemDbConnectionString6-Web.config Connection String" description="OKRSystemDbConnectionString6 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString6']/@connectionString" />
+  </parameter>
+  <parameter name="OKRSystemDbConnectionString7-Web.config Connection String" description="OKRSystemDbConnectionString7 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString7']/@connectionString" />
+  </parameter>
+  <parameter name="OKRSystemDbConnectionString8-Web.config Connection String" description="OKRSystemDbConnectionString8 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString8']/@connectionString" />
+  </parameter>
+  <parameter name="OKRSystemDbConnectionString9-Web.config Connection String" description="OKRSystemDbConnectionString9 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString9']/@connectionString" />
+  </parameter>
+  <parameter name="OKRSystemDbConnectionString10-Web.config Connection String" description="OKRSystemDbConnectionString10 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString10']/@connectionString" />
+  </parameter>
+  <parameter name="OKRSystemDbConnectionString11-Web.config Connection String" description="OKRSystemDbConnectionString11 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString11']/@connectionString" />
+  </parameter>
+  <parameter name="OKRSystemDbConnectionString12-Web.config Connection String" description="OKRSystemDbConnectionString12 由应用程序在 web.config 中用来访问数据库的连接字符串。" defaultValue="Data Source=LAPTOP-VHD1Q90Q;Initial Catalog=OKRSystemDb;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\TaoBW\\Documents\\Visual\ Studio\ 2015\\Projects\\OKR_System_Practice\\OKR_System_Practice\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='OKRSystemDbConnectionString12']/@connectionString" />
+  </parameter>
+</parameters>

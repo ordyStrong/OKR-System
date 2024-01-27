@@ -1,0 +1,22 @@
+
+.groupIntro {
+    background-color:#fff;
+    border-radius:8px;
+}
+    .content {
+        width:800px;
+        padding-left:20px;
+        /*padding-top:20px;*/
+        padding-bottom:20px;
+    }
+
+        .content div {
+            padding-top:20px;
+        }
+
+         .content ul {
+            padding-left:20px;
+        }
+hr {
+    margin-bottom:20px;
+}

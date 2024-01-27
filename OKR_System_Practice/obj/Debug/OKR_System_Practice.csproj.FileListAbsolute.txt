@@ -1,0 +1,7 @@
+C:\Users\TaoBW\documents\visual studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\bin\OKR_System_Practice.dll.config
+C:\Users\TaoBW\documents\visual studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\bin\OKR_System_Practice.dll
+C:\Users\TaoBW\documents\visual studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\bin\OKR_System_Practice.pdb
+C:\Users\TaoBW\documents\visual studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\obj\Debug\OKR_System_Practice.dll
+C:\Users\TaoBW\documents\visual studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\obj\Debug\OKR_System_Practice.pdb
+C:\Users\TaoBW\Documents\visual studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\obj\Debug\OKR_System_Practice.csproj.CoreCompileInputs.cache
+C:\Users\TaoBW\Documents\visual studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\obj\Debug\OKR_System_Practice.csproj.AssemblyReference.cache

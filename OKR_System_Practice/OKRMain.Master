@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="OKRMain.master.cs" Inherits="OKR_System_Practice.OKRMain" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <link rel="stylesheet" href="css/Reset.css" />
+    <link rel="stylesheet" type="text/css" href="css/OKRMainStyle.css" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header class="master_header">
+            <h3>OKR System</h3>		
+            <asp:Label ID="accountInfoLabel" Style="margin-top: 3px;color: #fff;float: right;"   runat="server" Text="ログイン"></asp:Label>
+        </header>
+
+        <nav class="master_nav">
+            <ul>
+                <li><a href="OKRIntroduce.aspx">OKR目標管理</a></li>
+               <%-- <li><a href="#">個人OKR</a></li>
+                <li><a href="#">グループOKR</a></li>--%>
+                <li><a href="PersonTarget.aspx">个人目标管理</a></li>
+                <li><a href="GroupManagement.aspx">群组目标管理</a></li>
+                <li><a href="UserManagement.aspx">用户管理</a></li>
+            </ul>
+        </nav>
+        <main class="master_main">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </main>
+    </form>
+</body>
+</html>

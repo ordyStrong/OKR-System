@@ -1,0 +1,42 @@
+.userInfo_tittle{
+	background-color: #E8EDF1;
+	color: #ccc;
+
+}
+
+
+th,
+td {
+    height:10px;
+    width:120px;
+    text-align: left;
+}
+hr {
+    margin-bottom:20px;
+}
+
+.userInfoContent {
+    background-color: #fff;
+    padding-left:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    border-radius:8px;
+}
+.contentInner {
+
+}
+/*.userInfoBtn {
+	padding: 6px 10px !important;
+	background-color: #4CAF50 !important;
+	color: white !important;
+	border: none !important;
+	border-radius: 4px !important;
+	cursor: pointer !important;
+}
+.userInfoBtn:hover {
+	background-color: #45a049 !important;
+}*/
+
+.colorred {
+    color:red;
+}

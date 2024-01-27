@@ -1,0 +1,6 @@
+C:\Users\TaoBW\Documents\Visual Studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\bin\OKR_System_Practice.dll.config
+C:\Users\TaoBW\Documents\Visual Studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\bin\OKR_System_Practice.dll
+C:\Users\TaoBW\Documents\Visual Studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\bin\OKR_System_Practice.pdb
+C:\Users\TaoBW\Documents\Visual Studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\obj\Release\OKR_System_Practice.csproj.CoreCompileInputs.cache
+C:\Users\TaoBW\Documents\Visual Studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\obj\Release\OKR_System_Practice.dll
+C:\Users\TaoBW\Documents\Visual Studio 2015\Projects\OKR_System_Practice\OKR_System_Practice\obj\Release\OKR_System_Practice.pdb
